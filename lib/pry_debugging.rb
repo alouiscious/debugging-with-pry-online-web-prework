@@ -1,4 +1,4 @@
-def plus_two(num).to eq(5)
+def plus_two(num, eq(5))
 	num + 2
 	num
 binding.pry
